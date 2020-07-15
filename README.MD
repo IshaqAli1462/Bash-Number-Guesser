@@ -1,1 +1,1 @@
-This is my first git repo.
+Number guessing game written in bash script.
