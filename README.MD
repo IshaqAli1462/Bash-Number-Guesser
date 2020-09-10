@@ -1,1 +1,1 @@
-Number guessing game written in bash script.
+As part of the AWS re/Start programme I learned scripting in Bash. My instructor gave us the task of creating a script that contained if statements, reading input and echoing output. I decided to write a number guessing game, where the the script picks and random number between 1 and 10 and the user has to guess what it is.
